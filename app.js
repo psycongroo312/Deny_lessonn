@@ -30,3 +30,4 @@ const getIndex = stepen.indexOf(324);
 
 console.log(getIndex);
 
+// njbuibyuvqyub
